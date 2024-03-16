@@ -10,7 +10,7 @@
 
 ## Tools
 
-<div>
+<div style="heigth:50px">
   <img src="img/html.png" style="">
   <img src="img/react.png" style="">
   <img src="img/mongo.png" style="">
