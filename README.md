@@ -1,1 +1,1 @@
-![App Screenshot](https://static.wixstatic.com/media/6919df_29a3dd4e5c53475da1d69e9950d7bc68~mv2.gif)
+![App Screenshot](https://i.pinimg.com/originals/b4/3e/ca/b43eca79f91fb0325bfc21e7b8d5f43f.gif)
