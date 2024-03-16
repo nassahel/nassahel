@@ -1,1 +1,2 @@
-![App Screenshot](kung.gif)
+<img src="kung.gif" style="width:100%;">
+
