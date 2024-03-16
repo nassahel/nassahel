@@ -1,1 +1,1 @@
-![App Screenshot](/kung.mp4)
+![App Screenshot](/https://github.com/nassahel/nassahel/blob/main/kung.gif?raw=true)
