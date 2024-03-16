@@ -1,2 +1,2 @@
-<img src="kung.gif" style="width:100%;">
+<img src="kung.gif" style="width:100vw;">
 
