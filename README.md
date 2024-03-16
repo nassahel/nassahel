@@ -1,4 +1,4 @@
-<img src="kung.gif" style="width:100vw;">
+<img src="img/kung.gif" style="width:100vw;">
 
 ## About Me
 
@@ -11,10 +11,11 @@
 ## Tools
 
 <div>
-  <img src="kung.gif" style="">
-  <img src="kung.gif" style="">
-  <img src="kung.gif" style="">
-  <img src="kung.gif" style="">
-  <img src="kung.gif" style="">
-  <img src="kung.gif" style="">
+  <img src="img/html.png" style="">
+  <img src="img/react.png" style="">
+  <img src="img/mongo.png" style="">
+  <img src="img/sql.png" style="">
+  <img src="img/php.png" style="">
+  <img src="img/java.png" style="">
+
 </div>
