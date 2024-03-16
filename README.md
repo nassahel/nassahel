@@ -14,7 +14,7 @@
 
 ## Tools
 
-<div style="display:flex; justify-content:center" >
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;" >
   <img src="img/html.png" style="height:50px;">
   <img src="img/react.png" style="height:50px;">
   <img src="img/mongo.png" style="height:45px;">
