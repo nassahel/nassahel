@@ -23,3 +23,9 @@
   <img src="img/java.png" style="height:50px;">
 
 </div>
+
+
+## Contact me
+
+- ### Portfolio: https://nassahel-portfolio.vercel.app
+- ### Linkedin: https://www.linkedin.com/in/nassahel
