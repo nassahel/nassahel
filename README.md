@@ -1,1 +1,1 @@
-![App Screenshot](kung.mp4)
+![App Screenshot](/kung.mp4)
