@@ -8,6 +8,8 @@
 
 - #### Currently learning JAVA
 
+  <hr>
+
 ## Tools
 
 <div >
