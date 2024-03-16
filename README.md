@@ -10,12 +10,12 @@
 
 ## Tools
 
-<div style="height:50px">
-  <img src="img/html.png" style="">
-  <img src="img/react.png" style="">
-  <img src="img/mongo.png" style="">
-  <img src="img/sql.png" style="">
-  <img src="img/php.png" style="">
-  <img src="img/java.png" style="">
+<div >
+  <img src="img/html.png" style="height:50px;">
+  <img src="img/react.png" style="height:50px;">
+  <img src="img/mongo.png" style="height:50px;">
+  <img src="img/sql.png" style="height:50px;">
+  <img src="img/php.png" style="height:50px;">
+  <img src="img/java.png" style="height:50px;">
 
 </div>
